@@ -1,0 +1,10 @@
+.container {
+    position: fixed;
+    background: linear-gradient(var(--color-shape) 50%, transparent);
+    width: 100%;
+}
+
+.logo {
+    width: 10rem;
+    height: 10rem;
+}
