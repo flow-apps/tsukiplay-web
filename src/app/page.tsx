@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import Image from "next/image";
-import styles from "./page.module.css";
+import styles from "@/styles/page.module.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
