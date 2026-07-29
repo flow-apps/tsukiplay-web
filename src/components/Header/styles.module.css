@@ -1,6 +1,6 @@
 .container {
     position: fixed;
-    background: linear-gradient(var(--color-shape) 50%, transparent);
+    background: var(--color-shape);
     width: 100%;
 }
 
